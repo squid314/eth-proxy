@@ -75,7 +75,7 @@ eth-proxy is built in python. I have been testing it with 2.7.3, but it should w
 * python-twisted
 
 
-# Installation and start
+# Installation and start (only for eth-proxy itself)
 
 * [Linux]
 1) install twisted
