@@ -61,7 +61,7 @@ Originally developed for DwarfPool http://dwarfpool.com/eth
 
 #Donations
 
-* ETH:  0xea7263feb7d8a8ab0a11eedd8f1ce04412ab0820
+* ETH:  0x36cE17348A9608A02F0e567b3aCe5A8Ea22bADf6
 
 
 #Requirements
