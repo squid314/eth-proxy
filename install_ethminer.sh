@@ -11,7 +11,7 @@ sudo apt-get install -y ethereum ethminer
 
 #sudo apt-get upgrade -y 
 
-git clone https://github.com/c2h2/eth-proxy.git
+#git clone https://github.com/c2h2/eth-proxy.git
 
 
 exit 0
