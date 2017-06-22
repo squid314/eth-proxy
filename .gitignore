@@ -1,3 +1,4 @@
 *.pyc
 .python-version
 eth-proxy.pid
+log/proxy.log

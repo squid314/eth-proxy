@@ -1,7 +1,7 @@
 #!/bin/sh
-RIG=`hostname`
+ip=`ifconfig | awk '/inet addr/{print substr($2,6)}'|grep 192`
+RIG=`hostname`${ip}
 
-cd eth-proxy
 while true; do python eth-proxy.py; sleep 1; done &
 
 sleep 2

@@ -1,9 +1,10 @@
 # How to install ethminer
 
-Read install install_ethminer.sh and install on ubuntu-like systems. 14.04/16.04
+Read install script "install_ethminer.sh" and install on ubuntu-like systems. 14.04/16.04
 
-# How to start mining
- ./farm.sh
+# How to start mining with proxy up?
+```./farm.sh``` 
+
 
 # Description
 
